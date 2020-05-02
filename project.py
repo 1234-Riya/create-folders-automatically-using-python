@@ -4,7 +4,7 @@ dict_extensions = {
     'audio_extensions' : ('.mp3','.m4a','.wav','.flac'),
     'video_extensions' : ('.mp4','.mkv','.MKV','.flv','.npeg'),
     'doc_extensions' : ('.doc','.pdf','.txt'),
-    'image_extensions' : ('.jpg','.png','gif','tiff','ai','psd'),
+    'image_extensions' : ('.jpg','.png','gif','.tiff','.ai','.psd'),
     'file_extensions' : ('.cpp','.py','.c','.java','.html','.js','.css','.exe'),
 
 
