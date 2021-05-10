@@ -1,2 +1,2 @@
 # create-folders-automatically-using-python
-A small project on python that will automatically create different folders according to the file extension.
+This is a file separator application using os and shutil module. This application will create folders for different types of files.
